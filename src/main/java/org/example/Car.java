@@ -21,6 +21,10 @@ public class Car {
 
     }
 
+    public Car(){
+        
+    }
+
     public void startCar(){
 
         System.out.println(

@@ -7,6 +7,9 @@ public class Main {
         car.startCar();
         car.accelerateCar(50);
 
+        Person person = new Person("Bastian", 27, "male");
+        person.introduction();
+
     }
 
 }
